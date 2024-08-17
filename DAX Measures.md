@@ -1,4 +1,4 @@
-# [DAX] Hotel Revenue Insights and Analysis 
+# [DAX] Hospitality Revenue Analysis and Insights
 
 
 #### Revenue 
